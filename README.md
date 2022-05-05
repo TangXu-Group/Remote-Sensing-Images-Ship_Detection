@@ -1,7 +1,7 @@
 # Remote-Sensing-Images-Ship_Detection
-# The paper can be downloaded from https://ieeexplore.ieee.org/abstract/document/9477497
-Paper: AR^2Det: An Accurate and Real-Time Rotational One-Stage Ship Detector in Remote Sensing Images
-
+## The paper can be downloaded from https://ieeexplore.ieee.org/abstract/document/9477497
+## Paper: AR^2Det: An Accurate and Real-Time Rotational One-Stage Ship Detector in Remote Sensing Images.
+## Please download "AR2DET.zip" for reproduction.
 
 1. Fill the folder  HRSC2016 in the following format:
 
